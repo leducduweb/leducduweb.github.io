@@ -44,6 +44,6 @@ sr.reveal('.skills__text',{delay:200})
 sr.reveal('.skills__data',{interval:200})
 sr.reveal('.skills__img',{delay:400})
 /*scroll work */
-sr.reveal('.work__img',{interval:200}
+sr.reveal('.work__img',{interval:200})
 /* contact */
 sr.reveal('.contact__input',{interval:200})
